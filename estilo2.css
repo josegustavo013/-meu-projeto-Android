@@ -18,6 +18,9 @@ align-items: center;
 background-color: #c5ebd6; 
 margin: 0px;
 padding:0px;
+width: 100%;
+height: 100%;
+
 
 }
 header{
@@ -31,9 +34,8 @@ color: white;
 .headers{
     padding-top: 80px;
     margin: 0px;
-padding:0px;
-width: 100%;
-height: 100%;
+padding:10px;
+    height:35%;
 
 }
 
