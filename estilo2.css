@@ -32,10 +32,9 @@ color: white;
 }
 
 .headers{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 180px;
+  margin-top: -30px;
+    padding: 90px;
+    height: 30%;
 }
 
 }
