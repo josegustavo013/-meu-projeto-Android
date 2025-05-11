@@ -32,9 +32,11 @@ color: white;
 }
 
 .headers{
-    padding-top: 140pxpx;
-    margin-top: -200px;
-    
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 180px;
+}
 
 }
 
